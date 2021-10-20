@@ -73,3 +73,7 @@ gem 'wdm', '>= 0.1.0'
 gem 'autoprefixer-rails'
 
 gem 'bootstrap-sass'
+
+gem 'rails-controller-testing'
+
+gem 'jquery-rails'
