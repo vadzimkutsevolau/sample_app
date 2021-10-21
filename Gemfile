@@ -77,3 +77,7 @@ gem 'bootstrap-sass'
 gem 'rails-controller-testing'
 
 gem 'jquery-rails'
+
+gem 'ansi'
+
+gem 'bcrypt'
