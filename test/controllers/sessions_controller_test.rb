@@ -1,8 +1,8 @@
 require "test_helper"
 
-class UsersControllerTest < ActionDispatch::IntegrationTest
+class SessionsControllerTest < ActionDispatch::IntegrationTest
   test "should get new" do
-    get signup_url
+    get login_url
     assert_response :success
   end
 end
