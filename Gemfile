@@ -81,3 +81,9 @@ gem 'jquery-rails'
 gem 'ansi'
 
 gem 'bcrypt'
+
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
